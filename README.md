@@ -1,0 +1,2 @@
+# MiningBTC
+Just another repository
